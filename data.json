@@ -1,0 +1,74 @@
+{
+    "projects": [
+            {
+              "id": "0",
+              "project_name": "Stan Lee Random Quote Generator",
+              "description": "A random quote generator of the late great Marvel co-creator, Stan Lee",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://rdowns2387.github.io/tech-degree-project-1/",
+              "github_link":"https://github.com/rdowns2387/tech-degree-project-1",
+              "thumbnails":"/static/images/01_quote-generator_sm.jpg",
+              "image_urls": [
+                "/static/images/01_quote-generator_lg.jpg",
+                "/static/images/01_quote-generator_lg_2.jpg",
+                "/static/images/01_quote-generator_lg_3.jpg"
+              ]
+            },
+            {
+              "id": "1",
+              "project_name": "Student Pagination",
+              "description": "A pagination list that dynamically populates a page with 10 students and creates navigation buttons to view the next 10.",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://rdowns2387.github.io/tech-degree-project-2/",
+              "github_link":"https://github.com/rdowns2387/tech-degree-project-2",
+              "thumbnails":"/static/images/02_student-pagination_sm.jpg",
+              "image_urls": [
+                "/static/images/02_student-pagination_lg.jpg",
+                "/static/images/02_student-pagination_lg_2.jpg",
+                "/static/images/02_student-pagination_lg_3.jpg"
+              ]
+            },
+            {
+                "id": "2",
+                "project_name": "Registration Form",
+                "description": "A registration form using that uses regex to validate user input and dynamically updates dropdown menus and disables/ enables checkboxes based on user's choices.",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://rdowns2387.github.io/tech-degree-project-3/",
+                "github_link":"https://github.com/rdowns2387/tech-degree-project-3",
+                "thumbnails":"/static/images/03_registration-form_sm.jpg",
+                "image_urls": [
+                  "/static/images/03_registration-form_lg.jpg",
+                  "/static/images/03_registration-form_lg_2.jpg",
+                  "/static/images/03_registration-form_lg_3.jpg"
+                ]
+            },
+            {
+              "id": "3",
+              "project_name": "Legend of Zelda Guessing Game",
+              "description": "This is the Legend of Zelda guessing game. Using vanilla JavaScript and jQuery, users can enjoy a Wheel of Fortune type of guessing game to test their Zelda knowledge.",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://rdowns2387.github.io/tech-degree-project-4/",
+              "github_link":"https://github.com/rdowns2387/tech-degree-project-4",
+              "thumbnails":"/static/images/04_zelda-guessing-game_sm.jpg",
+              "image_urls": [
+                "/static/images/04_zelda-guessing-game_lg.jpg",
+                "/static/images/04_zelda-guessing-game_lg_2.jpg",
+                "/static/images/04_zelda-guessing-game_lg_3.jpg"
+              ]
+            },
+            {
+              "id": "4",
+              "project_name": "Employee Directory",
+              "description": "An employee directory that dynamically loads content in from a public API. Users can search for employees by name, click on an employee to view more information, and scroll through employee profiles in the extended information view.",
+              "technologies": ["HTML", "CSS", "JavaScript"],
+              "live_link": "https://rdowns2387.github.io/tech-degree-project-5/",
+              "github_link":"https://github.com/rdowns2387/tech-degree-project-5",
+              "thumbnails":"/static/images/05_employee-directory_sm.jpg",
+              "image_urls": [
+                "/static/images/05_employee-directory_lg.jpg",
+                "/static/images/05_employee-directory_lg_2.jpg",
+                "/static/images/05_employee-directory_lg_3.jpg"
+              ]
+            }
+      ]
+  }
