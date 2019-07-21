@@ -35,6 +35,7 @@ app.get('/project/:id', (req, res)=>{
 //Error handling
 app.use((req, res, next) => {
   const err = new Error('It looks like the page you were looking for was not found...');
+  console.log('It looks like the page you were looking for was not found');
   err.status = 404;
   next(err);
 });
@@ -42,7 +43,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) =>{
   res.locals.error = err;
   res.status(err.status);
-  res.render('error')
+  res.render('error');
 });
 
 
